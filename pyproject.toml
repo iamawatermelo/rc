@@ -1,0 +1,11 @@
+[project]
+name = "rc-server"
+version = "0.1.0"
+description = "remote control software"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
